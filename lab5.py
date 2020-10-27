@@ -70,6 +70,12 @@ def main():
     ['   ##             ']
         ]
    
-    banner_Q
+    banner_Q = [
+    ['      
+    ['
+    ['
+    ['
+    ['
+    [' 
 if __name__ == "__main__": 
     main()
